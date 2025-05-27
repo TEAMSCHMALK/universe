@@ -1,0 +1,9 @@
+[
+  { "name": "Quark",      "size": 1e-18,   "color": "#e91e63" },
+  { "name": "Atom",       "size": 1e-10,   "color": "#3f51b5" },
+  { "name": "Cell",       "size": 1e-5,    "color": "#4caf50" },
+  { "name": "Human",      "size": 1.7,     "color": "#795548" },
+  { "name": "Earth",      "size": 6.37e6,  "color": "#2196f3" },
+  { "name": "Sun",        "size": 6.96e8,  "color": "#ffeb3b" },
+  { "name": "Milky Way",  "size": 5e20,    "color": "#9c27b0" }
+]
